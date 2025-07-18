@@ -56,9 +56,9 @@ winget-installer/
 ├── Launcher.bat                    # Main launcher script
 ├── script/
 │   ├── Install-Winget.ps1         # PowerShell installation script
-│   └── Files/                     # Offline installation files
-│       ├── Microsoft.DesktopAppInstaller_1.11.400.msixbundle
-│       ├── Microsoft.DesktopAppInstaller_License.xml
+│   └── Files/                     # Installation files
+│       ├── Microsoft.DesktopAppInstaller_8wekyb3d8bbwe.msixbundle
+│       ├── e53e159d00e04f729cc2180cffd1c02e_License1.xml
 │       ├── Microsoft.VCLibs.14.00_14.0.33728_x64.Appx
 │       ├── Microsoft.VCLibs.14.00_14.0.33728_x86.Appx
 │       ├── Microsoft.VCLibs.14.00_14.0.33728_arm64.Appx
@@ -137,9 +137,9 @@ The offline installation files need to be downloaded from Microsoft's official s
 ### Dependencies
 - **VCLibs 14.00** (x86, x64, ARM64)  
   - Source:  
-    [![x86](https://custom-icon-badges.demolab.com/badge/x86-blue?style=for-the-badge&logo=cpu&logoColor=white)](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/2a0007f4-9769-4709-9244-a28f54f70828?P1=1752870565&P2=404&P3=2&P4=JqLvSI5eXQTuiaCnW3NkYmlmTd%2fM%2fFhhX4t5k57FWSt96T%2b3hTERpQTeD%2b%2f6LTvx6epauLdldLrOtAP3zsO06w%3d%3d)
-    [![x64](https://custom-icon-badges.demolab.com/badge/x64-blue?style=for-the-badge&logo=cpu&logoColor=white)](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/27ca12bc-f81d-45ff-95d0-12ad79f15735?P1=1752870645&P2=404&P3=2&P4=SFBkez%2bQQzikaEKfikH2L7j0gq6EJBTcH0HB8QG7R7HT3rRkTYlWMOo6HSDMzZaRH5npWnqYGqElxWmA8EK7iw%3d%3d)
-    [![ARM64](https://custom-icon-badges.demolab.com/badge/ARM64-blue?style=for-the-badge&logo=cpu&logoColor=white)](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8b19ae8f-1fe9-45e1-aed3-1672ee33bf71?P1=1752870734&P2=404&P3=2&P4=Wa7SNj7UjR9UXskEwB8PF2%2fqxpsU1nlvp5hjuQrp7KHS3BJikqPpXPRNRoZmw6QujNaU7%2bC3vPbWWgi6XiyQOQ%3d%3d)
+    [![x86](https://aka.ms/Microsoft.VCLibs.x86.14.00.Desktop.appx)
+    [![x64](https://aka.ms/Microsoft.VCLibs.x64.14.00.Desktop.appx)
+    [![ARM64](https://aka.ms/Microsoft.VCLibs.arm64.14.00.Desktop.appx)
   
 - **Microsoft.UI.Xaml.2.8** (x86, x64, ARM64) and open as archive.....
   - Source: [NuGet Gallery](https://www.nuget.org/packages/Microsoft.UI.Xaml)
