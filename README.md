@@ -220,12 +220,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Community contributors** who have helped improve this installer
 - **Beta testers** who provided valuable feedback
 
-## 📊 Statistics
-
-![GitHub repo size](https://img.shields.io/github/repo-size/EXLOUD/winget-installer?style=flat-square)
-![GitHub code size](https://img.shields.io/github/languages/code-size/EXLOUD/winget-installer?style=flat-square)
-![GitHub last commit](https://img.shields.io/github/last-commit/EXLOUD/winget-installer?style=flat-square)
-
 ## 🔗 Related Projects
 
 - [winget-cli](https://github.com/microsoft/winget-cli) - Official winget command-line tool
