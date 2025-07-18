@@ -136,10 +136,10 @@ The offline installation files need to be downloaded from Microsoft's official s
 
 ### Dependencies
 - **VCLibs 14.00** (x86, x64, ARM64)  
-  - Source:  
-    [![x86](https://aka.ms/Microsoft.VCLibs.x86.14.00.Desktop.appx)
-    [![x64](https://aka.ms/Microsoft.VCLibs.x64.14.00.Desktop.appx)
-    [![ARM64](https://aka.ms/Microsoft.VCLibs.arm64.14.00.Desktop.appx)
+  - Official (aka.ms) mirrors:
+    - [![x86](https://custom-icon-badges.demolab.com/badge/x86--official-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://aka.ms/Microsoft.VCLibs.x86.14.00.Desktop.appx)
+    - [![x64](https://custom-icon-badges.demolab.com/badge/x64--official-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://aka.ms/Microsoft.VCLibs.x64.14.00.Desktop.appx)
+    - [![ARM64](https://custom-icon-badges.demolab.com/badge/ARM64--official-blue?style=for-the-badge&logo=microsoft&logoColor=white)](https://aka.ms/Microsoft.VCLibs.arm64.14.00.Desktop.appx)
   
 - **Microsoft.UI.Xaml.2.8** (x86, x64, ARM64) and open as archive.....
   - Source: [NuGet Gallery](https://www.nuget.org/packages/Microsoft.UI.Xaml)
