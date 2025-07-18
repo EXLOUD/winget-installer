@@ -28,7 +28,7 @@
   ![Architecture](https://custom-icon-badges.demolab.com/badge/Architecture-x86%20%7C%20x64%20%7C%20ARM64-blue?style=for-the-badge&logo=cpu&logoColor=white)
   [![GitHub stars](https://img.shields.io/github/stars/EXLOUD/winget-installer?style=flat-square)](https://github.com/EXLOUD/winget-installer/stargazers)
 
-Offline installer for Windows Package Manager (winget) that works without downolad any files for launch. This tool automatically handles all dependencies and configurations required for winget installation.
+Online/Offline installer for Windows Package Manager (winget). This tool automatically handles all dependencies and configurations required for winget installation.
 
 </div>
 
