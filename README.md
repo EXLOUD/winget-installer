@@ -141,7 +141,7 @@ The offline installation files need to be downloaded from Microsoft's official s
     [![x64](https://custom-icon-badges.demolab.com/badge/x64-blue?style=for-the-badge&logo=cpu&logoColor=white)](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/27ca12bc-f81d-45ff-95d0-12ad79f15735?P1=1752870645&P2=404&P3=2&P4=SFBkez%2bQQzikaEKfikH2L7j0gq6EJBTcH0HB8QG7R7HT3rRkTYlWMOo6HSDMzZaRH5npWnqYGqElxWmA8EK7iw%3d%3d)
     [![ARM64](https://custom-icon-badges.demolab.com/badge/ARM64-blue?style=for-the-badge&logo=cpu&logoColor=white)](http://tlu.dl.delivery.mp.microsoft.com/filestreamingservice/files/8b19ae8f-1fe9-45e1-aed3-1672ee33bf71?P1=1752870734&P2=404&P3=2&P4=Wa7SNj7UjR9UXskEwB8PF2%2fqxpsU1nlvp5hjuQrp7KHS3BJikqPpXPRNRoZmw6QujNaU7%2bC3vPbWWgi6XiyQOQ%3d%3d)
   
-- **Microsoft.UI.Xaml.2.8** (x86, x64, ARM64) and open as archive
+- **Microsoft.UI.Xaml.2.8** (x86, x64, ARM64) and open as archive.....
   - Source: [NuGet Gallery](https://www.nuget.org/packages/Microsoft.UI.Xaml)
 
 ## 🛠️ Troubleshooting
