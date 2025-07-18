@@ -19,7 +19,7 @@
     </a>
   </p>
   
-  <img src="assets/preview.png" width="600" alt="Winget Installer demo preview">
+  <img src="assets/preview.gif" width="600" alt="Winget Installer demo preview">
   
   [![GitHub issues](https://img.shields.io/github/issues/EXLOUD/winget-installer?style=flat-square)](https://github.com/EXLOUD/winget-installer/issues)
   ![PowerShell](https://custom-icon-badges.demolab.com/badge/PowerShell-5.1-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
