@@ -1,6 +1,10 @@
 <div align="center">
 
-### 👀 Repository Views
+### 👇
+
+[![Download My Installation Script](https://img.shields.io/badge/Download_My_Script-brightgreen?style=for-the-badge&logo=powershell&logoColor=white)](https://github.com/EXLOUD/winget-installer/archive/refs/heads/main.zip)
+
+---
 
 <img alt="count" src="https://count.getloli.com/get/@:EXLOUD-WINGET-INSTALL?theme=rule34" />
 
@@ -13,9 +17,6 @@
   <p>
     <a href="https://github.com/microsoft/winget-cli/releases">
       <img src="https://img.shields.io/badge/WinGet_Official_Repository-blue?style=for-the-badge&logo=github&logoColor=white" alt="WinGet Official Repository">
-    </a>
-    <a href="https://github.com/EXLOUD/winget-installer/archive/refs/heads/main.zip">
-      <img src="https://img.shields.io/badge/Download_My_Installation_Script-brightgreen?style=for-the-badge&logo=powershell&logoColor=white" alt="Download My Installation Script">
     </a>
   </p>
   
