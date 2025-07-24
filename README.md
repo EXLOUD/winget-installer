@@ -15,7 +15,7 @@
   <h1>Winget Installer</h1>
   
   <p>
-    <a href="https://github.com/microsoft/winget-cli/releases">
+    <a href="https://github.com/microsoft/winget-cli">
       <img src="https://img.shields.io/badge/WinGet_Official_Repository-blue?style=for-the-badge&logo=github&logoColor=white" alt="WinGet Official Repository">
     </a>
   </p>
